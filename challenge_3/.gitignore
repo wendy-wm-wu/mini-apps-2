@@ -1,1 +1,4 @@
 public/app.js
+.yo-rc.json
+node_modules
+package-lock.json
